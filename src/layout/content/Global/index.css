@@ -1,0 +1,8 @@
+/*
+  全局作用域
+*/
+.header :global(.title2) {
+  font-size: 36px;
+  text-align: center;
+}
+

@@ -1,0 +1,8 @@
+/*
+  类名组合
+  其他css文件
+*/
+.otherComposes {
+  font-size: 24px;
+  composes: text-align from '../../another.css';
+}

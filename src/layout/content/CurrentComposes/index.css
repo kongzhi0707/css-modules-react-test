@@ -1,0 +1,10 @@
+/* 类名组合 当前css文件 */
+
+.fontSize {
+  font-size: 40px;
+}
+
+.currentComposes {
+  composes: fontSize;
+  text-align: center;
+}

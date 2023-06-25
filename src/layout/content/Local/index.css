@@ -1,0 +1,11 @@
+/*
+  局部作用域
+*/
+.title {
+  color: #983636;
+  font-size: 40px;
+}
+.test {
+  font-size: 50px;
+  color: blue;
+}

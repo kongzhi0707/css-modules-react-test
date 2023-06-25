@@ -1,0 +1,10 @@
+/* 变量 */
+@value colors: '../../../styles/colors.css';
+@value v-primary, v-bg-color from colors;
+@value v-size: 36px;
+
+.value {
+  color: v-primary;
+  background-color: v-bg-color;
+  font-size: v-size;
+}
